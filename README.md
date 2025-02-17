@@ -46,9 +46,13 @@
 45. Write a pyhton program to return the output in this way
 
      5 4 3 2 1
+    
     5 4 3 2
+    
     5 4 3
+    
     5 4
+    
     5
 
 
