@@ -44,7 +44,8 @@
 43.  Given a sentence conataining parenthesis the input is the nth opening parenthesis amd we need to find the index of the correspomding closing parenthesis A = "(2+3)+((4+5)+6+7+(8+3))" Input - 2 ,Output-22
 44.  Given an array of numbers  arrange them in a way that yields that largest value.For example if th given  numbers are [54,546,548,60] ther arrangement 6054854654 gives the largest value and if the given numbers are [1,34,3,98,9,76,45,4] then arrangemnet will be 998764543431 gives the largest value.
 45. Write a pyhton program to return the output in this way
-    5 4 3 2 1
+
+     5 4 3 2 1
     5 4 3 2
     5 4 3
     5 4
