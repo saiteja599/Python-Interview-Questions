@@ -63,9 +63,19 @@
 51. How python manages memory with mutable and immutable data types?
 52. Given a list of elements l = ['a', 'b', 'c', 'a', 'c', 'a', 'd'] get the count of each element?
 53. Given a list l  = [2,9,11,15,17,3,5,25,1,77,6,28,32,12,7] and target = 18 from this list if we add any two elements the results should be equal to target retrun those pairs which sum wil be equal to the 
-    target value.
+    target value?
 54. Given a list l  = [2,9,11,15,17,3,5,25,1,77,6,28,32,12,7] and target = 18 from this list if we add any two elements the results should be equal to target retrun those  index of the pairs which sum wil be 
-    equal to the target value.     
+    equal to the target value?
+55. Given a list l  = [2,9,11,15,17,3,5,25,1,77,6,28,32,12,7] retrun unique elements in a new list?
+56. Given a list l  = [2,9,11,15,17,3,5,25,1,77,6,28,32,12,7] retrun prime numbers  in a new list?
+57. Given a string write a function to check whether given string is a palindrome or not?
+58. Given a list revese a list without using any inbuilt functions?
+59. Given a list reverse a list using recursion?
+60. Write a generator function to return infinite prime numbers?
+61. Write a function to print the longest palindrome sub string from a given string?
+62. Given a string write a function to check the given string is a anagram or not?
+63. Given a list in that list check if any even numbers are in the list if any of the elements are even then apply square for the even numbers and return those in a new list?
+         
 
      
 
